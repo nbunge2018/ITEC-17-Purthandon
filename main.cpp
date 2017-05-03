@@ -591,7 +591,7 @@ void storyPath3() {
 
 }
 
-	//-------------------------Other functions begin below this line----------------------------------------------------------------------
+	//-------------------------Other functions begin below this line-------------------------------------------------------------------------
 
 	//This function controls the termination of the program; termination is time-based
 	void programTermination() {
